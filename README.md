@@ -1,6 +1,6 @@
-MOVIES
+# MOVIES
 
-Integrantes
+## Integrantes
 
 Gonzalo Sotelo
 Pablo Alcaraz
