@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-Gonzalo Sotelo
-Pablo Alcaraz
-Lucas Nuñez
-Federico Villalba
+- Gonzalo Sotelo
+- Pablo Alcaraz
+- Lucas Nuñez
+- Federico Villalba
