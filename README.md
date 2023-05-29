@@ -3,6 +3,6 @@
 ## Integrantes
 
 - Gonzalo Sotelo
-- Pablo Alcaraz
+- Pablo Alcaraz  31   Cordoba Capital
 - Lucas Nuñez
 - Federico Villalba
